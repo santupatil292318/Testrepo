@@ -22,6 +22,6 @@ System.out.println("welcome to Jenkins Build 2");
 	public  void Test3()
 	{
 
-	System.out.println("Welcome to Banglore");
+	System.out.println("Welcome to Test Yantra");
 	}
 }
